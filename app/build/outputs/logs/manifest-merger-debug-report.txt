@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\f0e9e81c8c1fc322e929892530b42a20\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\62aa4db91ae2b88ed40bb6773f264a9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\4c1e0811092b22eb04f9a6d5e1fd373e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\b7bc791b6f4f8a237da5efb67afddd05\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\597c15188c847d1f0707706a661bb8cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\880e869d1a6f1e771c4afbc5c868ef22\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5d3b44a09a99a88046f6818e792369c6\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\71d5230236bc9f1b2fc7dda9ad77f211\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\666e6d4906790468d4a3e069b8599cc7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cc3e9accadc9caea3472a47b901587a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e9b99ef27790185d4c820494fb12916f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c39469b7e8c2fc19f56a606d31347b47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2d190f1e9720b74554c9765290765e11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\eb806e53ceee9cf087513134e2771c05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ebf41862d8802bf4c78cb877a53c08a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e8ee030c912d30f20a733c7436c036b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\88990d8cc3bc326a8556ef737dfecb9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\19af0fcfea3f36fc106da42ce35cf5f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d57107f2ababe9ec8a240268ee17a839\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\563572de4bafa395a1cb40058c99eef0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d037d1e4baee2a341ba9530b76663acc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5596fd113424016723c2816225db8f82\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cab72b615d09f267b82f0b01d5256a18\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d5491087cc2f7a1150522719c7824d96\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:10:5-32:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\f0e9e81c8c1fc322e929892530b42a20\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\f0e9e81c8c1fc322e929892530b42a20\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\4c1e0811092b22eb04f9a6d5e1fd373e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\4c1e0811092b22eb04f9a6d5e1fd373e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\b7bc791b6f4f8a237da5efb67afddd05\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\b7bc791b6f4f8a237da5efb67afddd05\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\880e869d1a6f1e771c4afbc5c868ef22\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\880e869d1a6f1e771c4afbc5c868ef22\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5d3b44a09a99a88046f6818e792369c6\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5d3b44a09a99a88046f6818e792369c6\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\71d5230236bc9f1b2fc7dda9ad77f211\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\71d5230236bc9f1b2fc7dda9ad77f211\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\666e6d4906790468d4a3e069b8599cc7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\666e6d4906790468d4a3e069b8599cc7\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:16:9-37
+	android:label
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:15:9-37
+	android:hardwareAccelerated
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:14:9-44
+	android:allowBackup
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.version
+ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\666e6d4906790468d4a3e069b8599cc7\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\666e6d4906790468d4a3e069b8599cc7\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:26:13-39
+	android:name
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:25:19-100
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\f0e9e81c8c1fc322e929892530b42a20\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\f0e9e81c8c1fc322e929892530b42a20\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\62aa4db91ae2b88ed40bb6773f264a9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\62aa4db91ae2b88ed40bb6773f264a9c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\4c1e0811092b22eb04f9a6d5e1fd373e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\4c1e0811092b22eb04f9a6d5e1fd373e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\b7bc791b6f4f8a237da5efb67afddd05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\b7bc791b6f4f8a237da5efb67afddd05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\597c15188c847d1f0707706a661bb8cc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\597c15188c847d1f0707706a661bb8cc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\880e869d1a6f1e771c4afbc5c868ef22\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\880e869d1a6f1e771c4afbc5c868ef22\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5d3b44a09a99a88046f6818e792369c6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5d3b44a09a99a88046f6818e792369c6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\71d5230236bc9f1b2fc7dda9ad77f211\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\71d5230236bc9f1b2fc7dda9ad77f211\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\666e6d4906790468d4a3e069b8599cc7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\666e6d4906790468d4a3e069b8599cc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cc3e9accadc9caea3472a47b901587a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cc3e9accadc9caea3472a47b901587a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e9b99ef27790185d4c820494fb12916f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e9b99ef27790185d4c820494fb12916f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c39469b7e8c2fc19f56a606d31347b47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c39469b7e8c2fc19f56a606d31347b47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2d190f1e9720b74554c9765290765e11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2d190f1e9720b74554c9765290765e11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\eb806e53ceee9cf087513134e2771c05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\eb806e53ceee9cf087513134e2771c05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ebf41862d8802bf4c78cb877a53c08a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ebf41862d8802bf4c78cb877a53c08a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e8ee030c912d30f20a733c7436c036b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e8ee030c912d30f20a733c7436c036b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\88990d8cc3bc326a8556ef737dfecb9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\88990d8cc3bc326a8556ef737dfecb9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\19af0fcfea3f36fc106da42ce35cf5f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\19af0fcfea3f36fc106da42ce35cf5f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d57107f2ababe9ec8a240268ee17a839\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d57107f2ababe9ec8a240268ee17a839\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\563572de4bafa395a1cb40058c99eef0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\563572de4bafa395a1cb40058c99eef0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d037d1e4baee2a341ba9530b76663acc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d037d1e4baee2a341ba9530b76663acc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5596fd113424016723c2816225db8f82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5596fd113424016723c2816225db8f82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cab72b615d09f267b82f0b01d5256a18\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cab72b615d09f267b82f0b01d5256a18\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d5491087cc2f7a1150522719c7824d96\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d5491087cc2f7a1150522719c7824d96\AndroidManifest.xml:20:5-44
+INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projects\final-ocr\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5d3b44a09a99a88046f6818e792369c6\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5d3b44a09a99a88046f6818e792369c6\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5d3b44a09a99a88046f6818e792369c6\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mouna\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5d3b44a09a99a88046f6818e792369c6\AndroidManifest.xml:24:13-79
